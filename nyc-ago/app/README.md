@@ -1,1 +1,1 @@
-## CAH mods, inspired by https://github.com/appoly/ARCore-Location.
+## CAH mods, inspired by appoly/ARCore-Location.
